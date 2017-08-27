@@ -1,0 +1,1 @@
+Klasifikasi Ketertarikan Pengguna Twitter Di Universitas Negeri Jakarta Terhadap Organisasi Menggunakan Algoritma Naive Bayes

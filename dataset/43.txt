@@ -1,0 +1,1 @@
+Implementasi Algoritma Smith-Waterman Dalam Pengembangan Aplikasi Pendeteksi Dugaan Awal Plagiarisme Pada Tugas Mahasiswa Di Jurusan Teknik Elektro Universitas Negeri Jakarta

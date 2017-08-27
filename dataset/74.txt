@@ -1,0 +1,1 @@
+Pemanfaatan Algoritma Jaro-Winkler Distance Untuk Mengidentifikasi Dugaan Plagiarisme Tugas Mahasiswa Jurusan Teknik Elektro Universitas Negeri Jakarta

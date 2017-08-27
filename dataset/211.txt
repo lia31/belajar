@@ -1,0 +1,1 @@
+Perbandingan Kinerja Algoritma Systematic Clustering Dan Greedy K-Member Pada Model K-Anonymity Dengan Menggunakan Dua Atribut Sensitif

@@ -1,0 +1,1 @@
+Kinerja Algoritma Naïve Bayes Untuk Mendeteksi Akurasi Berita Gempa Bumi Melalui Twitter Berbahasa Indonesia

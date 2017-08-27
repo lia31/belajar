@@ -1,0 +1,1 @@
+Perbandingan Kinerja Algoritma Systematic Clustering Dan One Pass Kmeans Pada Model K-Anonimity Data

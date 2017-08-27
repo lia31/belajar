@@ -1,0 +1,1 @@
+Analisis Kinerja Algoritma ISMC (Improved Split And Merge Classification) Dengan Clustering Untuk Menentukan Warna Dominan Pada Citra

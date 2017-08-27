@@ -1,0 +1,1 @@
+Pengujian Performa Jaringan Syaraf Tiruan Backpropagation Pada Model Pengenalan Tanda Tangan

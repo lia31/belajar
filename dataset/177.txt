@@ -1,0 +1,1 @@
+Pengenalan Tanda Tangan Menggunakan Algoritma Single Layer Perceptron

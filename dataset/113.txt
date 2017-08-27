@@ -1,0 +1,1 @@
+Pengembangan Aplikasi Sistem Pengumpulan Data Tekanan Udara Dan Suhu Secara Real Time Menggunakan Sensor BMP0085 Berbasis Visual Basic 6.0

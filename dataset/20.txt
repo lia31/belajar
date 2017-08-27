@@ -1,0 +1,1 @@
+Analisis Metode Extending Document Term Dengan Algoritma K-Means Untuk Meningkatkan Hasil Akurasi Algoritma Support Vector Machine Pada Klasifikasi Dokumen Teks Pendek Twitter
